@@ -17,7 +17,7 @@ export class AppComponent {
     },
     {
       description: 'Digital House',
-      url: 'https://www.digitalhouse.com/br/assets/metas/200903170927-2p33kws0ken8tfwd.png'
+      url: 'https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg'
     },
     {
       description: 'Digital House',
